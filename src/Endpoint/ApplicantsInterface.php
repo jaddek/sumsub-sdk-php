@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Jaddek\Sumsub\Http\Endpoint;
 
-use Jaddek\Sumsub\Http\Query\Transactions\ApplicantImportQuery;
+use Jaddek\Sumsub\Http\Query\Applicants\ApplicantImportQuery;
 use Symfony\Contracts\HttpClient\ResponseInterface;
 
 interface ApplicantsInterface

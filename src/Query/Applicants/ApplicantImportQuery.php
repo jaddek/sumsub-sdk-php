@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Jaddek\Sumsub\Http\Query\Transactions;
+namespace Jaddek\Sumsub\Http\Query\Applicants;
 
 use Jaddek\Sumsub\Http\Query\Query;
 

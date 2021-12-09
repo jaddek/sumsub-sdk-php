@@ -5,7 +5,7 @@ declare(strict_types=1);
 namespace Jaddek\Sumsub\Http\Provider;
 
 use Jaddek\Sumsub\Http\Endpoint\Applicants;
-use Jaddek\Sumsub\Http\Query\Transactions\ApplicantImportQuery;
+use Jaddek\Sumsub\Http\Query\Applicants\ApplicantImportQuery;
 
 class ApplicantsProvider
 {
